@@ -1,4 +1,4 @@
-package parkingAllocator;
+package com.parkingAllocator;
 
 import java.util.*;
 
